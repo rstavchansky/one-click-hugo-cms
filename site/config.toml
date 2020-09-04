@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://one-click-hugo-rachael-test-site.netlify.app"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
