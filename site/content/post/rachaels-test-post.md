@@ -6,7 +6,7 @@ image: img/illustrations-coffee-gear.svg
 ---
 **Some really cool content goes here.**
 
-Content goes here.
+Content goes here. This is a second deploy test.
 
 [Content goes here.](https://dataclay.com)
 
